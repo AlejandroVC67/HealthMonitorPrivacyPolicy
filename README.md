@@ -1,8 +1,8 @@
 # PRIVACY POLICY
-Last Updated: 20-09-2025
+Last Updated: 12-10-2025
 
 ## 1. Introduction
-HealthMonitor is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our medical records management application ('App').
+Meddy is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our medical records management application ('App').
 
 ## 2. Information We Do NOT Collect
 IMPORTANT: We do NOT collect, store, or have access to your personal medical information. Your medical data is stored exclusively in your personal iCloud account and is not transmitted to our servers.
